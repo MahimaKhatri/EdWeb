@@ -32,3 +32,21 @@ html::-webkit-scrollbar{
 html::-webkit-scrollbar-thumb{
     background:linear-gradient(#f1c40f , #f39c12) ;
 }
+
+/* body{
+    height:300rem;
+} */
+
+header{
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:1000;
+    padding:1.5rem;
+    background:var(--gradient);
+    box-shadow:0 .1rem .3rem rgba(0,0,0,.3);
+}
