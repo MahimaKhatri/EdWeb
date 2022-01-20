@@ -35,9 +35,9 @@ html::-webkit-scrollbar-thumb {
     background: linear-gradient(#f1c40f, #f39c12);
 }
 
-/* body{
+body{
     height:300rem;
-} */
+}
 
 header {
     width: 100%;
