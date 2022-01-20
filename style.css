@@ -50,3 +50,29 @@ header{
     background:var(--gradient);
     box-shadow:0 .1rem .3rem rgba(0,0,0,.3);
 }
+
+header .logo{
+    color:#fff;
+    font-size: 2.5rem;
+}
+
+header .navbar ul{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    list-style: none;
+}
+
+header .navbar ul li{
+    margin:0 1rem;
+}
+
+header .navbar ul li a{
+    font-size:2rem ;
+    color:#fff
+}
+
+header .navbar ul li a:hover{
+    color:#444;
+}
+
