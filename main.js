@@ -1,11 +1,11 @@
-$(document).ready(function(){
+$(document).ready(function () {
 
-    $('#menu').click(function(){
+    $('#menu').click(function () {
         $(this).toggleClass('fa-times');
         $('.navbar').toggleClass('nav-toggle');
     });
 
-    $(window).on('load scroll',function(){
+    $(window).on('load scroll', function () {
         $('#menu').removeClass('fa-times');
         $('.navbar').removeClass('nav-toggle');
     })
