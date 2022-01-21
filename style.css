@@ -154,3 +154,50 @@ header #menu {
         top: 6.4rem;
     }
 }
+
+/* login form */
+.login-form{
+    height :100%;
+    width:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:1000;
+    background: rgba(0, 0, 0, .5);
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.login-form form{
+    width:35rem;
+    background: #fff;
+    margin:0 2rem;
+    padding:1rem 3rem;
+    border-radius: .5rem;
+    box-shadow:0 .1rem .3rem #333;
+}
+
+.login-form form h3{
+    fomt-size:3rem;
+    color:#f1c40f;
+    padding:1rem 0;
+}
+
+.login-form form .box{
+    width:100%;
+    padding:1rem 0;
+    margin:1rem 0;
+    border-bottom: .1rem solid #666;
+    font-size: 1.6rem;
+    color:#333;
+    text-transform:none;
+}
+
+.login-form form .box::placeholder{
+    text-transform: capitalize;
+}
+
+.login-form form .box:focus{
+    border-color:#f1c40f;
+}
