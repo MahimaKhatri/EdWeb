@@ -5,11 +5,11 @@ $(document).ready(function () {
         $('.navbar').toggleClass('nav-toggle');
     });
 
-    $('#login').click(function(){
+    $('#login').click(function () {
         $('.login-form').addClass('popup');
 
     });
-    $('.login-form form .fa-times').click(function(){
+    $('.login-form form .fa-times').click(function () {
         $('.login-form').removeClass('popup');
 
     });
