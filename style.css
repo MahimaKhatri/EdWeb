@@ -72,6 +72,14 @@ section {
     left: 120%;
 }
 
+.heading{
+    color:#444;
+    padding:1rem;
+    font-size: 4rem;
+    text-align:center;
+
+}
+
 header {
     width: 100%;
     display: flex;
@@ -304,6 +312,20 @@ header #menu {
 /* about section ends */
 
 /* course section */
+.course .box-container{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-wrap:wrap;
+}
+
+.course .box-container .box{
+    width:35rem;
+    border:1rem solid rgba(0,0,0,.3);
+    position:relative;
+    margin:1.5rem;
+}
+
 
 /* course section ends */
 
