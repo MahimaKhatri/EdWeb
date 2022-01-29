@@ -407,6 +407,38 @@ header #menu {
     width: 65rem;
     margin: 1rem auto;
 }
+/* teacher section ends */
+
+/* contact section */
+.contact{
+    background: #111;
+}
+
+.contact .heading{
+    color:#fff;
+}
+
+.contact .row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.contact .row form{
+    flex:1 1 50rem;
+    background: #222;
+    padding:2rem;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+    align-items: flex-start;
+
+}
+
+
+
 
 
 
