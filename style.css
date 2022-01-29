@@ -420,7 +420,7 @@ header #menu {
 
 .contact .row{
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     flex-wrap: wrap;
 }
@@ -464,6 +464,16 @@ header #menu {
     width: 100%;
 }
 
+.contact .row form .btn:hover{
+    background: #fff;
+    color:#333;
+
+}
+
+.contact .row .image img{
+   height:80vh;
+   margin-top:2rem;
+}
 
 
 
@@ -538,6 +548,11 @@ header #menu {
     .teacher p {
         width: auto;
     }
+
+    .contact .row .image{
+        display: none;
+
+    }
 }
 
 /* login screen */
@@ -545,5 +560,9 @@ header #menu {
 
     html {
         font-size: 50%;
+    }
+
+    .contact .row form .box{
+        width: 100% ;
     }
 }
