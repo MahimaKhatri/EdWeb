@@ -407,29 +407,30 @@ header #menu {
     width: 65rem;
     margin: 1rem auto;
 }
+
 /* teacher section ends */
 
 /* contact section */
-.contact{
+.contact {
     background: #111;
 }
 
-.contact .heading{
-    color:#fff;
+.contact .heading {
+    color: #fff;
 }
 
-.contact .row{
+.contact .row {
     display: flex;
     align-items: flex-start;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-.contact .row form{
-    flex:1 1 50rem;
+.contact .row form {
+    flex: 1 1 50rem;
     background: #222;
-    padding:2rem;
-    display:flex;
+    padding: 2rem;
+    display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
     margin-top: 3rem;
@@ -437,42 +438,42 @@ header #menu {
 
 }
 
-.contact .row form .box{
-    height:5rem;
-    width:49%;
-    border:.1rem solid #eee;
-    padding:0 1rem;
-    margin:1rem 0;
+.contact .row form .box {
+    height: 5rem;
+    width: 49%;
+    border: .1rem solid #eee;
+    padding: 0 1rem;
+    margin: 1rem 0;
     font-size: 1.7rem;
     color: #fff;
     background: none;
     text-transform: none;
 }
 
-.contact .row form .box:focus{
+.contact .row form .box:focus {
     border-color: #9332a8;
 }
 
-.contact .row form .box::placeholder{
+.contact .row form .box::placeholder {
     text-transform: capitalize;
 }
 
-.contact .row form .address{
+.contact .row form .address {
     height: 15rem;
-    padding:1rem;
+    padding: 1rem;
     resize: none;
     width: 100%;
 }
 
-.contact .row form .btn:hover{
+.contact .row form .btn:hover {
     background: #fff;
-    color:#333;
+    color: #333;
 
 }
 
-.contact .row .image img{
-   height:80vh;
-   margin-top:2rem;
+.contact .row .image img {
+    height: 80vh;
+    margin-top: 2rem;
 }
 
 
@@ -549,7 +550,7 @@ header #menu {
         width: auto;
     }
 
-    .contact .row .image{
+    .contact .row .image {
         display: none;
 
     }
@@ -562,7 +563,7 @@ header #menu {
         font-size: 50%;
     }
 
-    .contact .row form .box{
-        width: 100% ;
+    .contact .row form .box {
+        width: 100%;
     }
 }
