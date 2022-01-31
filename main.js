@@ -29,7 +29,8 @@ $(document).ready(function () {
 
 
             if (offset < top && top < offset + height) {
-                $('.navbar ul li a').removeClass('')
+                $('.navbar ul li a').removeClass('active');
+                $('.navbar').find(`[href="#${id}"]`).addClass('active');
             }
 
 

@@ -476,14 +476,53 @@ header #menu {
     margin-top: 2rem;
 }
 
+/* contact section ends */
 
+/* footer section starts */
+.footer {
+    background: #333;
+}
 
+.footer .box-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
 
+.footer .box-container .box {
+    margin: 1.5rem;
+    text-align: center;
+    flex: 1 1 25rem;
+}
 
+.footer .box-container .box h3 {
+    font-size: 2.5rem;
+    color: #fff;
+    padding: 1rem 0;
+}
 
+.footer .box-container .box p {
+    font-size: 1.7rem;
+    color: #eee;
+    padding: .7rem 0;
+}
 
+.footer .box-container .box p i {
+    padding-right: .5rem;
+    color: #9332a8;
 
+}
 
+.footer .box-container .box a {
+    font-size: 1.8rem;
+    display: block;
+    padding: .5rem 0;
+    color: #eee;
+}
+
+.footer .box-container .box a:hover {
+    text-decoration: underline;
+}
 
 
 
