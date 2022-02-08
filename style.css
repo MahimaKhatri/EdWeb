@@ -524,7 +524,18 @@ header #menu {
     text-decoration: underline;
 }
 
+.footer .credit{
+    padding:2rem 1rem;
+    font-size:2rem;
+    color:#fff;
+    background: #111;
+    text-align: center;
+    font-weight:normal;
+}
 
+.footer .credit a{
+    color:#9332a8;
+}
 
 
 
