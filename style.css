@@ -242,7 +242,7 @@ header #menu {
 
 .home h1 {
     font-size: 6rem;
-    color:black;
+    color: black;
 
 }
 
@@ -404,11 +404,8 @@ header #menu {
     width: 65rem;
     margin: 1rem auto;
 }
-.teacher img{
-    height:auto;
-    width:auto;
-    margin-top:0;
-}
+
+
 
 /* teacher section ends */
 
@@ -526,17 +523,17 @@ header #menu {
     text-decoration: underline;
 }
 
-.footer .credit{
-    padding:2rem 1rem;
-    font-size:2rem;
-    color:#fff;
+.footer .credit {
+    padding: 2rem 1rem;
+    font-size: 2rem;
+    color: #fff;
     background: #111;
     text-align: center;
-    font-weight:normal;
+    font-weight: normal;
 }
 
-.footer .credit a{
-    color:#9332a8;
+.footer .credit a {
+    color: #9332a8;
 }
 
 
@@ -597,7 +594,7 @@ header #menu {
     .home p {
         width: auto;
     }
-    
+
 
     .teacher p {
         width: auto;
