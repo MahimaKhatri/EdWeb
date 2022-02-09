@@ -7,3 +7,12 @@
   
   </div>
 
+
+
+## Tech Stacks
+
++ HTML
++ CSS
++ JavaScript
+
+*work in progress*
