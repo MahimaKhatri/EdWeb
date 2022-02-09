@@ -1,6 +1,8 @@
 <div align ='center'>
   
-# EdWeb - Online Education Platform For Kids
+# EdWeb
+  
+  ### Online Education Platform For Kids
 
   
   </div>
