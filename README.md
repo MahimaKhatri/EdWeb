@@ -15,4 +15,4 @@
 + CSS
 + JavaScript
 
-*work in progress*
+*Work In Progress*
