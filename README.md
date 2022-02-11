@@ -16,5 +16,4 @@
 + JavaScript
 
 
-*Work In Progress*
 
