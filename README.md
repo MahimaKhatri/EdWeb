@@ -7,7 +7,9 @@
   
   </div>
 
+## Introduction :shamrock:
 
+## Features :eyes:
 
 ## Tech Stacks
 
