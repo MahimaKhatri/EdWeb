@@ -11,6 +11,12 @@
 
 ## Features :eyes:
 
+### Home Page
+![alt text](Images/1.png)
+
+### LogIn/SignUp Page
+![alt text](Images/2.png)
+
 ## Tech Stacks
 
 + HTML
