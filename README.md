@@ -17,6 +17,9 @@
 ### LogIn/SignUp Page
 ![alt text](Images/2.png)
 
+### About Us
+![alt text](Images/3.png)
+
 ## Tech Stacks
 
 + HTML
