@@ -20,6 +20,10 @@
 ### About Us
 ![alt text](Images/3.png)
 
+### Course Section
+![alt text](Images/4.png)
+
+
 ## Tech Stacks
 
 + HTML
