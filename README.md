@@ -26,6 +26,9 @@
 ### Teachers Section
 ![alt text](Images/5.png)
 
+### Contact Us 
+![alt text](Images/6.png)
+
 
 ## Tech Stacks
 
