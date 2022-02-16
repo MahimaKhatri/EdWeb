@@ -9,6 +9,8 @@
 
 ## Introduction :shamrock:
 
+The Covid-19 pandemic has affected our lives in various ways. All the countries across the globe resorted to imposing lockdowns to contain the spread of the virus. Lockdowns in turn disrupted the normal way of life. Since schools and colleges had to be closed because of the lockdowns, students have been studying online.
+
 ## Features :eyes:
 
 ### Home Page
