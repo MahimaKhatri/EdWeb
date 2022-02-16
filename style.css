@@ -258,7 +258,7 @@ header #menu {
     position: absolute;
     bottom: -.2rem;
     left: 0;
-    height: 25rem;
+    height: 30%;
     width: 100%;
     background: url(/Images/istockphoto-481215850-612x612-removebg-preview.png);
     block-size: 100rem 15rem;
@@ -594,6 +594,10 @@ header #menu {
     .home p {
         width: auto;
     }
+
+    /* .home .shape {
+        height:20%;
+    } */
 
 
     .teacher p {
