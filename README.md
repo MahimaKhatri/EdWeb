@@ -60,6 +60,5 @@ alt="Mahima Khatri">
 </tr>
 </table>
 
-*Work In Progress*
 
 
