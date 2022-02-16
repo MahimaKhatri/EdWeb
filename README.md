@@ -23,6 +23,9 @@
 ### Course Section
 ![alt text](Images/4.png)
 
+### Teachers Section
+![alt text](Images/5.png)
+
 
 ## Tech Stacks
 
