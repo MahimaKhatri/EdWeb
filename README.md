@@ -31,7 +31,7 @@ EdWeb is an online education website which offers interactive and fun courses fo
 ![alt text](Images/5.png)
 
 ### Contact Us 
-![alt text](Images/6.png) xx
+![alt text](Images/6.png) 
 
 
 ## Tech Stacks
