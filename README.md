@@ -37,7 +37,7 @@ EdWeb is an online education website which offers interactive and fun courses fo
 ## Tech Stacks
 
 + HTML
-+ CSSxx
++ CSS
 + JavaScript
 
 ## Developer :woman_technologist:
